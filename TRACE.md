@@ -38,7 +38,7 @@ It means the DNS information was provided by a DNS resolver or cache instead of 
 
 3. Why are there multiple IP addresses?
 
-The website has multiple IP addresses to help handle visitors, distributive traffic, and keep the website accessible.
+The website has multiple IP addresses to help handle visitors, distribute traffic, and keep the website accessible.
 
 ## A3. URL Breakdown
 
@@ -62,7 +62,7 @@ The .edu extension indicates that the website is related to an educational insti
 
 The .ph extension represents the Philippines and identifies the website's country-code domain.
 
-## ## A4. How a URL Works
+## A4. How a URL Works
 
 1. User enters the URL.
 
